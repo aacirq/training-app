@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/training-app/static/css/main.2353de1c.chunk.css",
+    "main.css": "/training-app/static/css/main.c4232b85.chunk.css",
     "main.js": "/training-app/static/js/main.00ff0d47.chunk.js",
     "main.js.map": "/training-app/static/js/main.00ff0d47.chunk.js.map",
     "runtime-main.js": "/training-app/static/js/runtime-main.fde796a3.js",
@@ -10,13 +10,13 @@
     "static/js/3.5a5e2999.chunk.js": "/training-app/static/js/3.5a5e2999.chunk.js",
     "static/js/3.5a5e2999.chunk.js.map": "/training-app/static/js/3.5a5e2999.chunk.js.map",
     "index.html": "/training-app/index.html",
-    "static/css/main.2353de1c.chunk.css.map": "/training-app/static/css/main.2353de1c.chunk.css.map",
+    "static/css/main.c4232b85.chunk.css.map": "/training-app/static/css/main.c4232b85.chunk.css.map",
     "static/js/2.5dd0bbce.chunk.js.LICENSE.txt": "/training-app/static/js/2.5dd0bbce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fde796a3.js",
     "static/js/2.5dd0bbce.chunk.js",
-    "static/css/main.2353de1c.chunk.css",
+    "static/css/main.c4232b85.chunk.css",
     "static/js/main.00ff0d47.chunk.js"
   ]
 }
